@@ -1,5 +1,9 @@
 package Remove_Prefix;
 
+//Status --> Accepted
+//Tags --> Data Structures,Greedy,Implementation
+//Difficulty Rating --> 800
+
 import java.util.Scanner;
 /*Polycarp was presented with some sequence of integers a of length n (1≤ai≤n).
 A sequence can make Polycarp happy only if it consists of different numbers (i.e. distinct numbers).

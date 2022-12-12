@@ -3,6 +3,10 @@ package Decode_String;
 import java.util.Scanner;
 import java.util.Stack;
 
+//Status --> Accepted
+//Tags --> Strings, Greedy
+//Difficulty Rating --> 800
+
 public class Solution {
     public static void main(String[] args)
     {
