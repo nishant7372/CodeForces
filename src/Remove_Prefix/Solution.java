@@ -1,4 +1,4 @@
-package _1714B_Remove_Prefix;
+package Remove_Prefix;
 
 import java.util.Scanner;
 /*Polycarp was presented with some sequence of integers a of length n (1≤ai≤n).

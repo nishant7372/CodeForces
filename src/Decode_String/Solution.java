@@ -1,4 +1,4 @@
-package _1729B_Decode_String;
+package Decode_String;
 
 import java.util.Scanner;
 import java.util.Stack;
