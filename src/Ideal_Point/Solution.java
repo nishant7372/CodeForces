@@ -12,7 +12,6 @@ public class Solution {
         while(t-->0) {
             int n = scan.nextInt();
             int k = scan.nextInt();
-            int[] a = new int[50];
             ArrayList<int[]> list = new ArrayList<>();
             for (int i = 0; i < n; i++) {
                 int left = scan.nextInt();
